@@ -8,7 +8,7 @@ set.seed(1000)
 library(datasets)
 library(randomForest)
 rf_model1 <- randomForest(Species ~.,data=iris)
-
+helpString <- ""
 
 shinyServer(
       function(input,output){

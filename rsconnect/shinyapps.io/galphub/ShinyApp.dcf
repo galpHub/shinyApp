@@ -2,6 +2,6 @@ name: ShinyApp
 account: galphub
 server: shinyapps.io
 appId: 68136
-bundleId: 308143
+bundleId: 309671
 url: https://galphub.shinyapps.io/ShinyApp
-when: 1447212447.49393
+when: 1447387615.99929
